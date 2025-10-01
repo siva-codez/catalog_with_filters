@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "prview":"vite preview",
+    "prview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.1.13",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.3",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
