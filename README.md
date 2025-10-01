@@ -25,4 +25,4 @@ Project Title:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/product-catalog-react.git
+git clone https://github.com/siva-codez/catalog_with_filters.git
