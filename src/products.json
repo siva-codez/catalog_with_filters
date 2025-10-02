@@ -7,7 +7,7 @@
         "price":115999,
         "category":"mobile",
         "rating":4.2,
-        "image":"/assets/images/iphone.jpeg"
+        "image":"../assets/images/iphone.jpeg"
     },
 
     {
@@ -18,7 +18,7 @@
         "price":99999,
         "category":"mobile",
         "rating":4.5,
-        "image":"/assets/images/samsunggalaxy.jpeg"
+        "image":"../assets/images/samsunggalaxy.jpeg"
     },
 
     {
@@ -29,7 +29,7 @@
         "price":28999,
         "category":"mobile",
         "rating":4.3,
-        "image":"/assets/images/Vivo phone.jpeg"
+        "image":"../assets/images/Vivo phone.jpeg"
     },
 
     {
@@ -40,7 +40,7 @@
         "price":35999,
         "category":"mobile",
         "rating":4.1,
-        "image":"/assets/images/Redmi.jpeg"
+        "image":"../assets/images/Redmi.jpeg"
     },
 
     {
@@ -51,7 +51,7 @@
         "price":59999,
         "category":"laptop",
         "rating":4.4,
-        "image":"/assets/images/asustufgaming.avif"
+        "image":"../assets/images/asustufgaming.avif"
     },
 
     {
@@ -62,7 +62,7 @@
         "price":56999,
         "category":"laptop",
         "rating":4.3,
-        "image":"/assets/images/Asus Vivobook.jpg"
+        "image":"../assets/images/Asus Vivobook.jpg"
     },
 
     {
@@ -73,7 +73,7 @@
         "price":54999,
         "category":"laptop",
         "rating":4.2,
-        "image":"/assets/images/ASUS_Notebook_Computer.jpg"
+        "image":"../assets/images/ASUS_Notebook_Computer.jpg"
     },
 
     {
@@ -84,7 +84,7 @@
         "price":57999,
         "category":"laptop",
         "rating":4.0,
-        "image":"/assets/images/Hp Laptop 15.jpg"
+        "image":"../assets/images/Hp Laptop 15.jpg"
     },
 
     {
@@ -95,7 +95,7 @@
         "price":67999,
         "category":"laptop",
         "rating":3.3,
-        "image":"/assets/images/HP-Pavilion-13.jpg"
+        "image":"../assets/images/HP-Pavilion-13.jpg"
     },
 
     {
@@ -106,7 +106,7 @@
         "price":78999,
         "category":"laptop",
         "rating":2.5,
-        "image":"/assets/images/Lenova Thinkpad.jpg"
+        "image":"../assets/images/Lenova Thinkpad.jpg"
     },
 
     {
@@ -117,7 +117,7 @@
         "price":89999,
         "category":"laptop",
         "rating":3.3,
-        "image":"/assets/images/Lenovo-laptops.png"
+        "image":"../assets/images/Lenovo-laptops.png"
     },
 
     {
@@ -128,7 +128,7 @@
         "price":78999,
         "category":"laptop",
         "rating":3.5,
-        "image":"/assets/images/Acer Aspire Lite.jpg"
+        "image":"../assets/images/Acer Aspire Lite.jpg"
     },
 
     {
@@ -139,7 +139,7 @@
         "price":75999,
         "category":"laptop",
         "rating":3.0,
-        "image":"/assets/images/Acer laptop.jpg"
+        "image":"../assets/images/Acer laptop.jpg"
     },
 
     {
@@ -150,7 +150,7 @@
         "price":3599,
         "category":"watch",
         "rating":4.0,
-        "image":"/assets/images/FireBolt watch.jpg"
+        "image":"../assets/images/FireBolt watch.jpg"
     },
 
     {
@@ -161,7 +161,7 @@
         "price":3999,
         "category":"watch",
         "rating":3.9,
-        "image":"/assets/images/Fire Bolt Smartwatch.jpg"
+        "image":"../assets/images/Fire Bolt Smartwatch.jpg"
     },
 
     {
@@ -172,7 +172,7 @@
         "price":4599,
         "category":"watch",
         "rating":4.5,
-        "image":"/assets/images/Titan watch.jpg"
+        "image":"../assets/images/Titan watch.jpg"
     },
 
     {
@@ -183,7 +183,7 @@
         "price":3999,
         "category":"watch",
         "rating":4.5,
-        "image":"/assets/images/Titan Analog Blue Daial.jpg"
+        "image":"../assets/images/Titan Analog Blue Daial.jpg"
     },
 
     {
@@ -194,7 +194,7 @@
         "price":59999,
         "category":"watch",
         "rating":4.0,
-        "image":"/assets/images/Rolex Watch.jpg"
+        "image":"../assets/images/Rolex Watch.jpg"
     },
 
     {
@@ -205,7 +205,7 @@
         "price":69999,
         "category":"watch",
         "rating":4.2,
-        "image":"/assets/images/Rolex Datejust.jpg"
+        "image":"../assets/images/Rolex Datejust.jpg"
     },
 
     {
@@ -216,7 +216,7 @@
         "price":1599,
         "category":"watch",
         "rating":4.5,
-        "image":"/assets/images/Sonata Super Fibre.jpg"
+        "image":"../assets/images/Sonata Super Fibre.jpg"
     },
 
     {
@@ -227,7 +227,7 @@
         "price":999,
         "category":"shoe",
         "rating":4.2,
-        "image":"/assets/images/Asian Men's.jpg"
+        "image":"../assets/images/Asian Men's.jpg"
     },
 
     {
@@ -238,7 +238,7 @@
         "price":899,
         "category":"shoe",
         "rating":4.3,
-        "image":"/assets/images/Asian Sneakers.jpg"
+        "image":"../assets/images/Asian Sneakers.jpg"
     },
 
     {
@@ -249,7 +249,7 @@
         "price":999,
         "category":"shoe",
         "rating":4.3,
-        "image":"/assets/images/Sparx Shoes.webp"
+        "image":"../assets/images/Sparx Shoes.webp"
     },
 
     {
@@ -260,7 +260,7 @@
         "price":1999,
         "category":"shoe",
         "rating":4.2,
-        "image":"/assets/images/sparx-black-fl-green-original.webp"
+        "image":"../assets/images/sparx-black-fl-green-original.webp"
     },
 
     {
@@ -271,7 +271,7 @@
         "price":1399,
         "category":"shoe",
         "rating":4.3,
-        "image":"/assets/images/Adidas Shoe.jpg"
+        "image":"../assets/images/Adidas Shoe.jpg"
     },
 
     {
@@ -282,7 +282,7 @@
         "price":1499,
         "category":"shoe",
         "rating":4.3,
-        "image":"/assets/images/adidas-running-shoes.jpg"
+        "image":"../assets/images/adidas-running-shoes.jpg"
     },
 
     {
@@ -293,7 +293,7 @@
         "price":2499,
         "category":"shoe",
         "rating":4.0,
-        "image":"/assets/images/Nike Shoes.jpg"
+        "image":"../assets/images/Nike Shoes.jpg"
     },
 
     {
@@ -304,6 +304,6 @@
         "price":3499,
         "category":"shoe",
         "rating":4.2,
-        "image":"/assets/images/Nike white shoe.jpg"
+        "image":"../assets/images/Nike white shoe.jpg"
     }
 ]
