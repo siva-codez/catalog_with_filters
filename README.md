@@ -15,6 +15,11 @@ Project Title:
 
 ---
 
+## 📸 Preview
+
+![Quiz App Screenshot](./src/assets/images/catalogscreenshot.png)
+
+---
 
 ## 🚀 Live Demo
 👉 [Click Here to View](https://your-live-link.com)  
