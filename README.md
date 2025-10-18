@@ -1,5 +1,4 @@
-Project Title:
-    # 🛒 Product Catalog with Filters (React)
+## 🛒 Product Catalog with Filters (React)
 
    - A modern and responsive product catalog built with React.  
    - Users can browse products and apply filters such as Category, Brand, and Price Range to find items easily.
