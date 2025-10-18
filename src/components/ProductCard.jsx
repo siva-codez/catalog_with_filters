@@ -3,7 +3,7 @@ import React from 'react'
 const ProductCard = ({product}) => {
   const {image,name,brand,mrp,price,rating}=product;
   return (
-    <div className='bg-white shadow p-4 hover:shadow-xl transition-all duration-200'>
+    <div className='bg-white p-4 rounded-2xl shadow-md hover:shadow-2xl transform transition duration-300 ease-in-out hover:scale-105 cursor-pointer'>
     <img src={image} alt={name}  className='w-auto h-48 object-fit-contain mb-4' />
     <h3 className='text-sm font-medium text-gray-600 mb-1'>{brand.charAt(0).toUpperCase()+brand.slice(1)}</h3>
     <h2 className='text-lg font-semibold mb-2 '>{name.charAt(0).toUpperCase()+name.slice(1)}</h2>
