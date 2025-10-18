@@ -7,7 +7,7 @@
         "price":115999,
         "category":"mobile",
         "rating":4.2,
-        "image":"./src/assets/images/iphone.jpeg"
+        "image":"/images/iphone.jpeg"
     },
 
     {
@@ -18,7 +18,7 @@
         "price":99999,
         "category":"mobile",
         "rating":4.5,
-        "image":"./src/assets/images/samsunggalaxy.jpeg"
+        "image":"/images/samsunggalaxy.jpeg"
     },
 
     {
@@ -29,7 +29,7 @@
         "price":28999,
         "category":"mobile",
         "rating":4.3,
-        "image":"./src/assets/images/Vivo phone.jpeg"
+        "image":"/images/Vivo phone.jpeg"
     },
 
     {
@@ -40,7 +40,7 @@
         "price":35999,
         "category":"mobile",
         "rating":4.1,
-        "image":"./src/assets/images/Redmi.jpeg"
+        "image":"/images/Redmi.jpeg"
     },
 
     {
