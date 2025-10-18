@@ -7,7 +7,7 @@
         "price":115999,
         "category":"mobile",
         "rating":4.2,
-        "image":"/images/iphone.jpeg"
+        "image":"./images/iphone.jpeg"
     },
 
     {
