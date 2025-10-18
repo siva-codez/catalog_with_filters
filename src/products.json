@@ -18,7 +18,7 @@
         "price":99999,
         "category":"mobile",
         "rating":4.5,
-        "image":"/images/samsunggalaxy.jpeg"
+        "image":"./images/samsunggalaxy.jpeg"
     },
 
     {
@@ -29,7 +29,7 @@
         "price":28999,
         "category":"mobile",
         "rating":4.3,
-        "image":"/images/Vivo phone.jpeg"
+        "image":"./images/Vivo phone.jpeg"
     },
 
     {
@@ -40,7 +40,7 @@
         "price":35999,
         "category":"mobile",
         "rating":4.1,
-        "image":"/images/Redmi.jpeg"
+        "image":"./images/Redmi.jpeg"
     },
 
     {
@@ -51,7 +51,7 @@
         "price":59999,
         "category":"laptop",
         "rating":4.4,
-        "image":"./src/assets/images/asustufgaming.avif"
+        "image":"./images/asustufgaming.avif"
     },
 
     {
