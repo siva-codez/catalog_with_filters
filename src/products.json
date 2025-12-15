@@ -139,7 +139,7 @@
         "price":75999,
         "category":"laptop",
         "rating":3.0,
-        "image":"./images/Acer laptop.jpg"
+        "image":"../images/Acer laptop.jpg"
     },
 
     {
@@ -150,7 +150,7 @@
         "price":3599,
         "category":"watch",
         "rating":4.0,
-        "image":"./images/FireBolt watch.jpg"
+        "image":"../images/FireBolt watch.jpg"
     },
 
     {
@@ -161,7 +161,7 @@
         "price":3999,
         "category":"watch",
         "rating":3.9,
-        "image":"./images/Fire Bolt Smartwatch.jpg"
+        "image":"../images/Fire Bolt Smartwatch.jpg"
     },
 
     {
